@@ -1,0 +1,10 @@
+.monci {
+  width: 200px;
+	
+	transition: transform 3s linear;
+   }
+  .monci:hover { 
+    transform: rotate(1turn);
+    
+    cursor: pointer;
+  }
